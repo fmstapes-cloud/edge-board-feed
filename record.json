@@ -1,0 +1,331 @@
+{
+ "generated_at": "2026-10-18T07:34:01.667093Z",
+ "all": {
+  "bets": 17,
+  "won": 10,
+  "lost": 7,
+  "push": 0,
+  "win_rate": 0.5882,
+  "units_risked": 4.25,
+  "units_profit": 0.08,
+  "roi": 0.0179
+ },
+ "card_only": {
+  "bets": 0,
+  "won": 0,
+  "lost": 0,
+  "push": 0,
+  "win_rate": null,
+  "units_risked": 0,
+  "units_profit": 0,
+  "roi": null
+ },
+ "by_league": {
+  "Bundesliga": {
+   "bets": 3,
+   "won": 2,
+   "lost": 1,
+   "push": 0,
+   "win_rate": 0.6667,
+   "units_risked": 0.75,
+   "units_profit": 0.24,
+   "roi": 0.3173
+  },
+  "La Liga": {
+   "bets": 1,
+   "won": 0,
+   "lost": 1,
+   "push": 0,
+   "win_rate": 0.0,
+   "units_risked": 0.25,
+   "units_profit": -0.25,
+   "roi": -1.0
+  },
+  "MLB": {
+   "bets": 1,
+   "won": 0,
+   "lost": 1,
+   "push": 0,
+   "win_rate": 0.0,
+   "units_risked": 0.25,
+   "units_profit": -0.25,
+   "roi": -1.0
+  },
+  "NHL": {
+   "bets": 12,
+   "won": 8,
+   "lost": 4,
+   "push": 0,
+   "win_rate": 0.6667,
+   "units_risked": 3.0,
+   "units_profit": 0.34,
+   "roi": 0.1127
+  }
+ },
+ "by_day": [
+  {
+   "date": "2026-10-17",
+   "bets": 1,
+   "won": 1,
+   "lost": 0,
+   "push": 0,
+   "win_rate": 1.0,
+   "units_risked": 0.25,
+   "units_profit": 0.21,
+   "roi": 0.852
+  },
+  {
+   "date": "2026-10-16",
+   "bets": 5,
+   "won": 3,
+   "lost": 2,
+   "push": 0,
+   "win_rate": 0.6,
+   "units_risked": 1.25,
+   "units_profit": 0.13,
+   "roi": 0.1056
+  },
+  {
+   "date": "2026-10-15",
+   "bets": 11,
+   "won": 6,
+   "lost": 5,
+   "push": 0,
+   "win_rate": 0.5455,
+   "units_risked": 2.75,
+   "units_profit": -0.27,
+   "roi": -0.0978
+  }
+ ],
+ "recent": [
+  {
+   "date": "2026-10-17",
+   "league": "Bundesliga",
+   "event": "VfB Stuttgart @ Hamburger SV",
+   "pick": "Under 3.5 goals",
+   "odds": -118,
+   "win_prob": 0.5252,
+   "units": 0.25,
+   "result": "won",
+   "profit_units": 0.213,
+   "on_card": false
+  },
+  {
+   "date": "2026-10-16",
+   "league": "Bundesliga",
+   "event": "SC Paderborn @ Werder Bremen",
+   "pick": "Under 3.5 goals",
+   "odds": -154,
+   "win_prob": 0.5855,
+   "units": 0.25,
+   "result": "lost",
+   "profit_units": -0.25,
+   "on_card": false
+  },
+  {
+   "date": "2026-10-16",
+   "league": "Bundesliga",
+   "event": "Augsburg @ Elversberg",
+   "pick": "Over 3.5 goals",
+   "odds": 110,
+   "win_prob": 0.4632,
+   "units": 0.25,
+   "result": "won",
+   "profit_units": 0.275,
+   "on_card": false
+  },
+  {
+   "date": "2026-10-16",
+   "league": "NHL",
+   "event": "Boston Bruins @ Anaheim Ducks",
+   "pick": "Boston Bruins ML",
+   "odds": -110,
+   "win_prob": 0.5146,
+   "units": 0.25,
+   "result": "won",
+   "profit_units": 0.227,
+   "on_card": false
+  },
+  {
+   "date": "2026-10-16",
+   "league": "NHL",
+   "event": "Pittsburgh Penguins @ Colorado Avalanche",
+   "pick": "Colorado Avalanche ML",
+   "odds": -192,
+   "win_prob": 0.6586,
+   "units": 0.25,
+   "result": "won",
+   "profit_units": 0.13,
+   "on_card": false
+  },
+  {
+   "date": "2026-10-16",
+   "league": "La Liga",
+   "event": "Levante @ Deportivo La Coru\u00f1a",
+   "pick": "Over 2.5 goals",
+   "odds": -115,
+   "win_prob": 0.5199,
+   "units": 0.25,
+   "result": "lost",
+   "profit_units": -0.25,
+   "on_card": false
+  },
+  {
+   "date": "2026-10-15",
+   "league": "NHL",
+   "event": "Calgary Flames @ Vegas Golden Knights",
+   "pick": "Vegas Golden Knights ML",
+   "odds": -312,
+   "win_prob": 0.7473,
+   "units": 0.25,
+   "result": "won",
+   "profit_units": 0.08,
+   "on_card": false
+  },
+  {
+   "date": "2026-10-15",
+   "league": "NHL",
+   "event": "Utah Mammoth @ Edmonton Oilers",
+   "pick": "Utah Mammoth ML",
+   "odds": -108,
+   "win_prob": 0.5146,
+   "units": 0.25,
+   "result": "won",
+   "profit_units": 0.232,
+   "on_card": false
+  },
+  {
+   "date": "2026-10-15",
+   "league": "NHL",
+   "event": "Utah Mammoth @ Edmonton Oilers",
+   "pick": "Edmonton Oilers ML",
+   "odds": -118,
+   "win_prob": 0.5344,
+   "units": 0.25,
+   "result": "lost",
+   "profit_units": -0.25,
+   "on_card": false
+  },
+  {
+   "date": "2026-10-15",
+   "league": "NHL",
+   "event": "Winnipeg Jets @ Chicago Blackhawks",
+   "pick": "Winnipeg Jets ML",
+   "odds": -118,
+   "win_prob": 0.5344,
+   "units": 0.25,
+   "result": "lost",
+   "profit_units": -0.25,
+   "on_card": false
+  },
+  {
+   "date": "2026-10-15",
+   "league": "NHL",
+   "event": "St Louis Blues @ Minnesota Wild",
+   "pick": "Minnesota Wild ML",
+   "odds": -135,
+   "win_prob": 0.5684,
+   "units": 0.25,
+   "result": "won",
+   "profit_units": 0.185,
+   "on_card": false
+  },
+  {
+   "date": "2026-10-15",
+   "league": "NHL",
+   "event": "San Jose Sharks @ Nashville Predators",
+   "pick": "Nashville Predators ML",
+   "odds": -133,
+   "win_prob": 0.5638,
+   "units": 0.25,
+   "result": "lost",
+   "profit_units": -0.25,
+   "on_card": false
+  },
+  {
+   "date": "2026-10-15",
+   "league": "MLB",
+   "event": "Milwaukee Brewers @ Los Angeles Dodgers",
+   "pick": "Los Angeles Dodgers ML",
+   "odds": -145,
+   "win_prob": 0.5857,
+   "units": 0.25,
+   "result": "lost",
+   "profit_units": -0.25,
+   "on_card": false
+  },
+  {
+   "date": "2026-10-15",
+   "league": "NHL",
+   "event": "New York Islanders @ Ottawa Senators",
+   "pick": "Ottawa Senators ML",
+   "odds": -145,
+   "win_prob": 0.584,
+   "units": 0.25,
+   "result": "won",
+   "profit_units": 0.172,
+   "on_card": false
+  },
+  {
+   "date": "2026-10-15",
+   "league": "NHL",
+   "event": "New York Islanders @ Ottawa Senators",
+   "pick": "Under 5.5",
+   "odds": -112,
+   "win_prob": 0.5228,
+   "units": 0.25,
+   "result": "won",
+   "profit_units": 0.222,
+   "on_card": false
+  },
+  {
+   "date": "2026-10-15",
+   "league": "NHL",
+   "event": "Vancouver Canucks @ Florida Panthers",
+   "pick": "Over 6.5",
+   "odds": 115,
+   "win_prob": 0.4635,
+   "units": 0.25,
+   "result": "lost",
+   "profit_units": -0.25,
+   "on_card": false
+  },
+  {
+   "date": "2026-10-15",
+   "league": "NHL",
+   "event": "Vancouver Canucks @ Florida Panthers",
+   "pick": "Florida Panthers ML",
+   "odds": -278,
+   "win_prob": 0.7361,
+   "units": 0.25,
+   "result": "won",
+   "profit_units": 0.09,
+   "on_card": false
+  }
+ ],
+ "learning": {
+  "status": "collecting",
+  "n_graded": 17,
+  "buckets": [
+   {
+    "range": "45-55%",
+    "n": 9,
+    "predicted": 0.5103,
+    "actual": 0.5556
+   },
+   {
+    "range": "55-65%",
+    "n": 5,
+    "predicted": 0.5775,
+    "actual": 0.4
+   },
+   {
+    "range": "65-100%",
+    "n": 3,
+    "predicted": 0.714,
+    "actual": 1.0
+   }
+  ]
+ },
+ "note": "Every pick is saved when posted with its price locked, then graded from final scores. Nothing is deleted."
+}
